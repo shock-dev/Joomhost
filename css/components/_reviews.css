@@ -11,15 +11,15 @@
     margin: 0 -50px;
 }
 
-.reviews-slider .slick-track {
+.reviews-slider .slick-slide {
     margin: 0 50px;
+    padding-bottom: 70px;
 }
 
 /* Dots */
 .reviews-slider .slick-dots {
     display: flex;
     justify-content: center;
-    margin: 50px 0 0 0;
 }
 
 .reviews-slider .slick-dots li {
@@ -43,6 +43,7 @@
 
 .reviews-box {
     display: flex;
+    box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
 }
 
 .reviews-box__img {
@@ -57,6 +58,7 @@
 .reviews-box__img img {
     border-radius: 50%;
 }
+
 
 .reviews-box__content {
     background-color: #fff;
