@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72d6f7e-cc91-41cc-8931-793f2274b38f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/components/_footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/footer-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/components/_reviews.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slider-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/slider-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,7 @@
       <workItem from="1602298588845" duration="840000" />
       <workItem from="1602299685385" duration="629000" />
       <workItem from="1602402025888" duration="7938000" />
-      <workItem from="1602483759723" duration="2925000" />
+      <workItem from="1602483759723" duration="9062000" />
     </task>
     <servers />
   </component>
