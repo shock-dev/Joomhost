@@ -1,0 +1,93 @@
+.footer {
+    background-image: url('../../images/footer-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0 125px;
+    height: 508px;
+    color: #6a85a8;
+}
+
+
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__title {
+    color: #d0e4ff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-bottom: 34px;
+}
+
+.footer__text {
+    font-size: 13px;
+    line-height: 22px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid rgba(255, 255, 255, .05);
+}
+
+.footer__menu {
+    width: 165px;
+}
+
+.footer__logo {
+    margin-bottom: 22px;
+}
+
+.footer__col--logo,
+.footer__col--form {
+    width: 263px;
+}
+
+.footer__list a {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.footer__form input,
+.footer__form textarea,
+.footer__form button {
+    color: #fff;
+    font-size: 11px;
+}
+
+.footer__form input:first-child {
+    margin-top: 0;
+}
+
+.footer__form input,
+.footer__form textarea {
+    background-color: transparent;
+    height: 38px;
+    display: block;
+    width: 100%;
+    border: 1px solid #485769;
+    padding: 0 12px;
+    margin-top: -1px;
+}
+
+.footer__form textarea {
+    padding-top: 12px;
+    height: 85px;
+    resize: none;
+    margin-bottom: 10px;
+}
+
+.footer__form input::placeholder,
+.footer__form textarea::placeholder {
+    color: #6983a6;
+    font-size: 11px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.footer__form button {
+    background-color: #2575e7;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    border: none;
+    padding: 10px;
+}
