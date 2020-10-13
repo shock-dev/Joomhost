@@ -6,3 +6,5 @@
 @import "components/_price.css";
 @import "components/_reviews.css";
 @import "components/_footer.css";
+
+@import "_media.css";
