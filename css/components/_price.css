@@ -44,6 +44,9 @@
     align-items: flex-end;
     justify-content: center;
     padding-bottom: 40px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
 }
 
 .price__item-num span {

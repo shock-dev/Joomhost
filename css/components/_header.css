@@ -19,6 +19,7 @@
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
     transition: all .3s;
+    background-color: #fff;
 }
 
 .menu__link:hover {
